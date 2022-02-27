@@ -1,0 +1,15 @@
+{
+  "name": "@lamualfa/tuban-petro-core",
+  "version": "1.0.0",
+  "main": "dist/index.cjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamualfa/tuban-petro-core.git"
+  },
+  "author": "lamualfa@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamualfa/tuban-petro-core/issues"
+  },
+  "homepage": "https://github.com/lamualfa/tuban-petro-core#readme"
+}
